@@ -1,0 +1,3 @@
+Juuso,10
+Antti,5
+Severi,15

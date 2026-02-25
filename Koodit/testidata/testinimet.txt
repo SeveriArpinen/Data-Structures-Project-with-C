@@ -1,0 +1,3 @@
+kolmas,3
+toka,2
+eka,1
