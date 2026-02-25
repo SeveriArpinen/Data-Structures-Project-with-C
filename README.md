@@ -2,7 +2,7 @@
 
 This project was created as a team assignment for the **C Programming course** at LUT University. The project was completed over multiple weeks with the goal of learning C programming fundamentals, testing practices, and collaborative teamwork.
 
-**Note:** All code, comments, and documentation are written in Finnish as required by the course.
+**Note:** All code, comments, and documentation are written in Finnish as required by the course. The pdf files include the installation and operating instructions, quality report and final report of the project.
 
 ## Project Overview
 
